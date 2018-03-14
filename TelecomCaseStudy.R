@@ -6,9 +6,9 @@ library(ROCR)
 
 
 #set working directory
-setwd("C:\\Jig12051\\Telecom Case Study")
+setwd("C:\\Telecom")
 
-telecom <- read.csv("C:/Data Science with R/Assignments/Graded Assignments/Topic 13 -  Final Case Study Course Wrap up/telecomfinal.csv")
+telecom <- read.csv("C:/telecom.csv")
 
 telecom_bk <- telecom
 
